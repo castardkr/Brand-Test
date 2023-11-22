@@ -17,3 +17,14 @@ layout:
 ### ㅅㄷㄴㅅ
 
 ![](.gitbook/assets/PrivateLLM\_Logo\_Color.png)
+
+<div style="display: flex;">
+    <div style="flex: 1; padding: 10px;">
+        <!-- 여기에 첫 번째 컬럼의 내용 -->
+      어떤 내용?
+    </div>
+    <div style="flex: 1; padding: 10px;">
+        <!-- 여기에 두 번째 컬럼의 내용 -->
+      테스트 페이지
+    </div>
+</div>
