@@ -18,13 +18,7 @@ layout:
 
 ![](.gitbook/assets/PrivateLLM\_Logo\_Color.png)
 
-<div style="display: flex;">
-    <div style="flex: 1; padding: 10px; boarder: 1px solid black; width: 300px; height: auto;">
-        <!-- 여기에 첫 번째 컬럼의 내용 -->
-      어떤 내용?
-    </div>
-    <div style="flex: 1; padding: 10px; boarder: 1px solid black; width: 300px; height: auto;">
-        <!-- 여기에 두 번째 컬럼의 내용 -->
-      테스트 페이지
-    </div>
-</div>
+어떤 내용?테스트 페이지
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td><a href=".gitbook/assets/PrivateLLM_Logo_Color.png">PrivateLLM_Logo_Color.png</a></td></tr><tr><td></td><td></td><td></td><td></td><td><a href=".gitbook/assets/스크린샷 2023-11-15 오후 12.35.14.png">스크린샷 2023-11-15 오후 12.35.14.png</a></td></tr></tbody></table>
+
