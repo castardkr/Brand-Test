@@ -24,5 +24,5 @@ layout:
 
 
 
-<table data-header-hidden><thead><tr><th width="258"></th><th></th><th data-type="content-ref"></th><th data-hidden></th></tr></thead><tbody><tr><td><a href="group-1/page-1.md">fdsaf</a></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-header-hidden style="boarder-color: none;"><thead><tr><th width="258"></th><th></th><th data-type="content-ref"></th><th data-hidden></th></tr></thead><tbody><tr><td><a href="group-1/page-1.md">fdsaf</a></td><td></td><td></td><td></td></tr></tbody></table>
 
